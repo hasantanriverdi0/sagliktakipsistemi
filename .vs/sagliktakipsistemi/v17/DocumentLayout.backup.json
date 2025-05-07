@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\diyet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|solutionrelative:sagliktakipsistemi\\diyet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\diyet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|solutionrelative:sagliktakipsistemi\\diyet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\veri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|solutionrelative:sagliktakipsistemi\\veri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|solutionrelative:sagliktakipsistemi\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|solutionrelative:sagliktakipsistemi\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|solutionrelative:sagliktakipsistemi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\veri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|solutionrelative:sagliktakipsistemi\\veri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|solutionrelative:sagliktakipsistemi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|sagliktakipsistemi||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\egzersiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|solutionrelative:sagliktakipsistemi\\egzersiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|solutionrelative:sagliktakipsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|solutionrelative:sagliktakipsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{0EBB5B37-4259-4DEC-98D5-BFE875582235}|sagliktakipsistemi\\sagliktakipsistemi.csproj|solutionrelative:sagliktakipsistemi\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "diyet.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\diyet.cs",
+              "RelativeDocumentMoniker": "sagliktakipsistemi\\diyet.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\diyet.cs",
+              "RelativeToolTip": "sagliktakipsistemi\\diyet.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwv0cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:17:54.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\anasayfa.cs",
+              "RelativeDocumentMoniker": "sagliktakipsistemi\\anasayfa.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\anasayfa.cs",
+              "RelativeToolTip": "sagliktakipsistemi\\anasayfa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:44:14.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "anasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\anasayfa.cs",
+              "RelativeDocumentMoniker": "sagliktakipsistemi\\anasayfa.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\anasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sagliktakipsistemi\\anasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:25:26.765Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "veri.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\veri.cs",
+              "RelativeDocumentMoniker": "sagliktakipsistemi\\veri.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\veri.cs",
+              "RelativeToolTip": "sagliktakipsistemi\\veri.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:29:09.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "guncelle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\guncelle.cs",
+              "RelativeDocumentMoniker": "sagliktakipsistemi\\guncelle.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\guncelle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sagliktakipsistemi\\guncelle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:31:13.718Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "veri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\veri.cs",
+              "RelativeDocumentMoniker": "sagliktakipsistemi\\veri.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\veri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sagliktakipsistemi\\veri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:27:32.643Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "guncelle.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\guncelle.cs",
+              "RelativeDocumentMoniker": "sagliktakipsistemi\\guncelle.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\guncelle.cs",
+              "RelativeToolTip": "sagliktakipsistemi\\guncelle.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAywCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:32:33.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "diyet.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\diyet.cs",
+              "RelativeDocumentMoniker": "sagliktakipsistemi\\diyet.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\diyet.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sagliktakipsistemi\\diyet.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:38:05.501Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sagliktakipsistemi",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\sagliktakipsistemi.csproj",
+              "RelativeDocumentMoniker": "sagliktakipsistemi\\sagliktakipsistemi.csproj",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\sagliktakipsistemi.csproj",
+              "RelativeToolTip": "sagliktakipsistemi\\sagliktakipsistemi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T13:56:39.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "egzersiz.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\egzersiz.cs",
+              "RelativeDocumentMoniker": "sagliktakipsistemi\\egzersiz.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\egzersiz.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sagliktakipsistemi\\egzersiz.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:34:57.83Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "sagliktakipsistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sagliktakipsistemi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:52:55.029Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "sagliktakipsistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\sagliktakipsistemi\\sagliktakipsistemi\\Form1.cs",
+              "RelativeToolTip": "sagliktakipsistemi\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:40:50.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
